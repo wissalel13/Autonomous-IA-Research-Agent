@@ -1,0 +1,20 @@
+# environnement et caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# état généré (MLflow, index du RAG, rapports, benchmarks)
+state/
+benchmark/state/
+mlflow.db
+mlruns/
+chroma_db/
+outputs/
+
+# divers
+.env
+*.log
+.DS_Store
+Thumbs.db

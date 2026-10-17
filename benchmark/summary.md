@@ -1,0 +1,30 @@
+| Jeu | Config | Graines | Écart moyen | Écart-type | Vict./Ég./Déf. |
+|---|---|---|---|---|---|
+| cancer | fixe | 5 | -0.0058 | 0.0081 | 1/1/3 |
+| cancer | fixe_cols | 5 | -0.0058 | 0.0081 | 1/1/3 |
+| cancer | fixe_cw | 5 | -0.0058 | 0.0081 | 1/1/3 |
+| cancer | fixe_opt | 5 | -0.0059 | 0.0083 | 1/0/4 |
+| cancer | llm_qwen2.5:3b | 5 | +0.0003 | 0.0007 | 1/4/0 |
+| cancer | regles_sans_opt | 5 | -0.0003 | 0.002 | 2/2/1 |
+| diabetes | fixe | 5 | -0.0409 | 0.1758 | 2/0/3 |
+| diabetes | fixe_opt | 5 | +0.0 | 0.0 | 0/5/0 |
+| diabetes | llm_qwen2.5:3b | 5 | +0.0 | 0.0 | 0/5/0 |
+| digits | fixe | 5 | +0.0032 | 0.0072 | 4/0/1 |
+| digits | fixe_opt | 5 | +0.0021 | 0.0079 | 3/0/2 |
+| digits | llm_qwen2.5:3b | 5 | +0.0 | 0.0 | 0/5/0 |
+| friedman | fixe | 5 | -0.0849 | 0.0402 | 0/0/5 |
+| friedman | fixe_opt | 5 | +0.0 | 0.0 | 0/5/0 |
+| rare_synth | fixe | 5 | -0.0475 | 0.0178 | 0/0/5 |
+| rare_synth | fixe_cols | 5 | -0.0476 | 0.0178 | 0/0/5 |
+| rare_synth | fixe_cw | 5 | -0.0396 | 0.0153 | 0/0/5 |
+| rare_synth | fixe_opt | 5 | +0.0109 | 0.0216 | 4/0/1 |
+| rare_synth | llm_qwen2.5:3b | 5 | +0.0 | 0.0 | 0/5/0 |
+| rare_synth | regles_sans_opt | 5 | -0.0448 | 0.021 | 0/0/5 |
+| wine | fixe | 5 | +0.0181 | 0.0255 | 2/3/0 |
+| wine | fixe_cols | 5 | +0.0181 | 0.0255 | 2/3/0 |
+| wine | fixe_cw | 5 | +0.0181 | 0.0255 | 2/3/0 |
+| wine | fixe_opt | 5 | +0.0108 | 0.0241 | 1/4/0 |
+| wine | llm_qwen2.5:3b | 5 | +0.0 | 0.0 | 0/5/0 |
+| wine | regles_sans_opt | 5 | +0.0073 | 0.0163 | 1/4/0 |
+| xor_synth | fixe | 5 | +0.0027 | 0.0027 | 4/0/1 |
+| xor_synth | fixe_opt | 5 | +0.0018 | 0.0025 | 3/2/0 |
